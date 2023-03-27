@@ -43,6 +43,8 @@ we will create the following yaml files -
 * `mongo-app.yaml`
 * `web-app.yaml`
 
+we are using [`mongo`](https://hub.docker.com/_/mongo) as the DB image & [`mongo-express`](https://hub.docker.com/_/mongo-express) as our application for this demo.
+
 
 ## Deployment
 
