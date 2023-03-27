@@ -3,7 +3,7 @@ This repo is created to log the learning of Kubernetes deployments on local cont
 
 # Preview
 <!-- ToDo - Add Preview Image here. -->
-![Preview Image]()
+![Preview Image](https://raw.githubusercontent.com/AashishSinghal/kube-mern/main/preview.png)
 
 # Commands that are used to setup and run this project.
 
